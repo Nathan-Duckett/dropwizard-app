@@ -1,6 +1,6 @@
-package com.companyname.template.resources;
+package com.nduckett.dropwizardapp.resources;
 
-import com.companyname.template.Config;
+import com.nduckett.dropwizardapp.Config;
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
 

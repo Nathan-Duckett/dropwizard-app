@@ -1,4 +1,4 @@
-package com.companyname.template;
+package com.nduckett.dropwizardapp;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.dropwizard.core.Configuration;

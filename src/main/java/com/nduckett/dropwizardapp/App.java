@@ -1,6 +1,6 @@
-package com.companyname.template;
+package com.nduckett.dropwizardapp;
 
-import com.companyname.template.resources.RootResource;
+import com.nduckett.dropwizardapp.resources.RootResource;
 import io.dropwizard.core.Application;
 import io.dropwizard.core.setup.Environment;
 
